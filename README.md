@@ -39,7 +39,7 @@ Thanks to **scikit-learn**, **pandas**, and **matplotlib** for making machine le
 
 ## How to Use This  
 - **Clone the repo** and install dependencies.
-- **Run** the `expense_categorizer.py` script.
+- **Run** the `SmartExpenseCategorizer(1).ipynb` script.
 - **Review the results**, **visualizations**, and model performance.
 
 ## What's Next?  
